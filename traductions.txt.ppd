@@ -1,0 +1,84 @@
+*LanguageVersion: English|*LanguageVersion: French (SEM_Log)
+*LanguageEncoding: ISOLatin1|*LanguageEncoding: UTF-8
+*cupsLanguages: "en"|*cupsLanguages: "fr_CH"
+(Borderless)|(sans bordures)
+Env10/Envelope #10|Env10/Enveloppe #10
+Env10.Borderless/Envelope #10 (Borderless)|Env10.Borderless/Enveloppe #10 (sans bordures)
+EnvC5/CEnvelope 5|EnvC5/CEnveloppe 5
+EnvC5.Borderless/CEnvelope 5 (Borderless)|EnvC5.Borderless/CEnveloppe 5 (sans bordures)
+EnvChou3/Envelope Chou 3|EnvChou3/Enveloppe Chou 3
+EnvChou3.Borderless/Envelope Chou 3 (Borderless)|EnvChou3.Borderless/Enveloppe Chou 3 (sans bordures)
+EnvChou4/Envelope Chou 4|EnvChou4/Enveloppe Chou 4
+EnvChou4.Borderless/Envelope Chou 4 (Borderless)|EnvChou4.Borderless/Enveloppe Chou 4 (sans bordures)
+EnvDL/Envelope DL|EnvDL/Enveloppe DL
+EnvDL.Borderless/Envelope DL (Borderless)|EnvDL.Borderless/Enveloppe DL (sans bordures)
+EnvKaku2/Envelope Kahu 2|EnvKaku2/Enveloppe Kahu 2
+EnvKaku2.Borderless/Envelope Kahu 2 (Borderless)|EnvKaku2.Borderless/Enveloppe Kahu 2 (sans bordures)
+EnvMonarch/Envelope Monarch|EnvMonarch/Enveloppe Monarch
+EnvMonarch.Borderless/Envelope Monarch (Borderless)|EnvMonarch.Borderless/Enveloppe Monarch (sans bordures)
+*InputSlot Auto/Automatic|*InputSlot Auto/Automatique
+*InputSlot Tray1/Tray 1|*InputSlot Tray1/Bac 1
+*InputSlot Tray2/Tray 2|*InputSlot Tray2/Bac 2
+*InputSlot Tray3/Tray 3|*InputSlot Tray3/Bac 3
+*InputSlot Tray4/Tray 4|*InputSlot Tray4/Bac 4
+*InputSlot ByPassTray/By-pass Tray|*InputSlot ByPassTray/Bac manuel
+*MediaType Auto/Automatic|*MediaType Auto/Automatique
+*MediaType StationeryLightweight/Lightweight Paper|*MediaType StationeryLightweight/Papier fin et léger
+*MediaType StationeryHeavyweight/Heavyweight Paper|*MediaType StationeryHeavyweight/Papier épais
+*MediaType Transparency/Transparency|*MediaType Transparency/Transparent
+*MediaType Labels/Labels|*MediaType Labels/Libelés
+*MediaType StationeryPrepunched/Punched Paper|*MediaType StationeryPrepunched/Papier perforé
+*MediaType Envelope/Envelope|*MediaType Envelope/Enveloppe
+*ColorModel RGB/Color|*ColorModel RGB/Couleur
+*ColorModel Gray/Monochrome|*ColorModel Gray/Niveau de gris
+*DefaultColorModel: RGB|*DefaultColorModel: Gray/Monochrome
+*OutputBin Tray1/Tray 1|*OutputBin Tray1/Bac 1
+*PageStackOrder Tray1|*PageStackOrder Bac1
+*OutputBin Tray2/Tray 2|*OutputBin Tray2/Bac 2
+*PageStackOrder Tray2|*PageStackOrder Bac2
+*OutputBin Auto/Automatic|*OutputBin Auto/Automatique
+*OpenUI *StapleLocation/Staple|*OpenUI *StapleLocation/Agrafe
+*StapleLocation SinglePortrait/Staple Top Left|*StapleLocation SinglePortrait/Agrafe coin suppérieur gauche
+*StapleLocation SingleRevLandscape/Staple Bottom Left|*StapleLocation SingleRevLandscape/Agrafe coin inférieur gauche
+*StapleLocation SingleLandscape/Staple Top Right*StapleLocation SingleLandscape/Agrafe coin suppérieur droite
+*StapleLocation SingleRevPortrait/Staple Bottom Right|*StapleLocation SingleRevPortrait/Agrafe coin inférieur droite
+*StapleLocation DualPortrait/2 Staples on Left|*StapleLocation DualPortrait/2 agrafes à gauche
+*StapleLocation DualLandscape/2 Staples on Top|*StapleLocation DualLandscape/2 agrafes en haut
+*StapleLocation DualRevPortrait/2 Staples on Right|*StapleLocation DualRevPortrait/2 agrafes à droite
+*StapleLocation DualRevLandscape/2 Staples on Bottom|*StapleLocation DualRevLandscape/2 agrafes en bas
+*OpenUI *PunchMedia/Punch|*OpenUI *PunchMedia/Perforation
+*PunchMedia DualPortrait/2-hole Punch Left|*PunchMedia DualPortrait/Perforé 2 trous à gauche
+*PunchMedia DualLandscape/2-hole Punch Top|*PunchMedia DualLandscape/Perforé 2 trous en haut
+*PunchMedia DualRevPortrait/2-hole Punch Right|*PunchMedia DualRevPortrait/Perforé 2 trous à droite
+*PunchMedia DualRevLandscape/2-hole Punch Bottom|*PunchMedia DualRevLandscape/Perforé 2 trous en bas
+*PunchMedia QuadPortrait/4-hole Punch Left|*PunchMedia QuadPortrait/Perforé 4 trous à gauche
+*PunchMedia QuadLandscape/4-hole Punch Top|*PunchMedia QuadLandscape/Perforé 4 trous en haut
+*PunchMedia QuadRevPortrait/4-hole Punch Right|*PunchMedia QuadRevPortrait/Perforé 4 trous à droite
+*PunchMedia QuadRevLandscape/4-hole Punch Bottom|*PunchMedia QuadRevLandscape/Perforé 4 trous en bas
+*OpenUI *cupsFinishingTemplate/Finishing Preset|*OpenUI *cupsFinishingTemplate/Réglages de finition
+*cupsFinishingTemplate staple/Staple|*cupsFinishingTemplate staple/Agrafage
+*cupsFinishingTemplate staple-top-left/Staple Top Left|*cupsFinishingTemplate staple-top-left/Agrafe coin suppérieur gauche
+*cupsFinishingTemplate staple-bottom-left/Staple Bottom Left|*cupsFinishingTemplate staple-bottom-left/Agrafe coin inférieur gauche
+*cupsFinishingTemplate staple-top-right/Staple Top Right|*cupsFinishingTemplate staple-top-right/Agrafe coin suppérieur droite
+*cupsFinishingTemplate staple-bottom-right/Staple Bottom Right|*cupsFinishingTemplate staple-bottom-right/Agrafe coin inférieur droite
+*cupsFinishingTemplate staple-dual-left/2 Staples on Left|*cupsFinishingTemplate staple-dual-left/2 agrafes à gauche
+*cupsFinishingTemplate staple-dual-top/2 Staples on Top|*cupsFinishingTemplate staple-dual-top/2 agrafes en haut
+*cupsFinishingTemplate staple-dual-right/2 Staples on Right|*cupsFinishingTemplate staple-dual-right/2 agrafes à droite
+*cupsFinishingTemplate staple-dual-bottom/2 Staples on Bottom|*cupsFinishingTemplate staple-dual-bottom/2 agrafes en bas
+*cupsFinishingTemplate punch/Punch|*cupsFinishingTemplate punch/Perforation
+*cupsFinishingTemplate punch-dual-left/2-hole Punch Left|*cupsFinishingTemplate punch-dual-left/Perforé 2 trous à gauche
+*cupsFinishingTemplate punch-dual-top/2-hole Punch Top|*cupsFinishingTemplate punch-dual-top/Perforé 2 trous en haut
+*cupsFinishingTemplate punch-dual-right/2-hole Punch Right|*cupsFinishingTemplate punch-dual-right/Perforé 2 trous à droite
+*cupsFinishingTemplate punch-dual-bottom/2-hole Punch Bottom|*cupsFinishingTemplate punch-dual-bottom/Perforé 4 trous en bas
+*cupsFinishingTemplate punch-quad-left/4-hole Punch Left|*cupsFinishingTemplate punch-quad-left/Perforé 4 trous à gauche
+*cupsFinishingTemplate punch-quad-top/4-hole Punch Top|*cupsFinishingTemplate punch-quad-top/Perforé 4 trous en haut
+*cupsFinishingTemplate punch-quad-right/4-hole Punch Right|*cupsFinishingTemplate punch-quad-right/Perforé 4 trous à droite
+*cupsFinishingTemplate punch-quad-bottom/4-hole Punch Bottom|*cupsFinishingTemplate punch-quad-bottom/Perforé 4 trous en bas
+*OpenUI *cupsPrintQuality/Print Quality|*OpenUI *cupsPrintQuality/Qualité d'impression
+*cupsPrintQuality Draft/Draft|*cupsPrintQuality Draft/Brouillon
+*OpenUI *print-scaling/Print Scaling|*OpenUI *print-scaling/Mise à l’échelle de l’impression
+*print-scaling auto/Automatic|*print-scaling auto/Automatique
+*print-scaling auto-fit/Auto-fit|*print-scaling auto-fit/Auto-ajusté
+*print-scaling fill/Etiré
+*print-scaling fit/Ajusté
+*print-scaling none/Sans
